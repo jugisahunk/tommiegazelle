@@ -1,0 +1,20 @@
+{
+  "name": "tommiegazelle",
+  "version": "1.0.0",
+  "description": "create gazelle based website for kids ages 4-8",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jugisahunk/tommiegazelle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jugisahunk/tommiegazelle/issues"
+  },
+  "homepage": "https://github.com/jugisahunk/tommiegazelle#readme"
+}
